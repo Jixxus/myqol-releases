@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MyQOL updates</title>
+        <link>https://github.com/Jixxus/myqol-releases</link>
+        <description>Signed MyQOL updates for macOS.</description>
+        <language>en</language>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: du1nNgfF0K28WKzWOCmO7R7CxLf4fT47hp11ly/VPG9P5uN3QtHEMEuTOwDBZtwS4+lRclUC/kpqwkAe6xVCDQ==
+length: 612
+-->
