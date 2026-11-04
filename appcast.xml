@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MyQOL</title>
         <item>
-            <title>1.4.0</title>
-            <pubDate>Wed, 04 Nov 2026 08:10:09 +0000</pubDate>
-            <link>https://github.com/Jixxus/myqol-releases/releases/tag/v1.4.0</link>
-            <sparkle:version>41797297136</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <title>1.5.0</title>
+            <pubDate>Wed, 04 Nov 2026 12:59:59 +0000</pubDate>
+            <link>https://github.com/Jixxus/myqol-releases/releases/tag/v1.5.0</link>
+            <sparkle:version>41833942486</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Jixxus/myqol-releases/releases/download/v1.4.0/MyQOL-v1.4.0-macOS-universal.zip" length="2107653" type="application/octet-stream" sparkle:edSignature="C4rc1b6OYpvb2gDwC4iC8cEazZp3/O8AlblcHGGtnE7rAAr3Q/YAQpuOTaOvMf1DHZ1RfAkQ/6QSosP0ms2yDw=="></enclosure>
+            <enclosure url="https://github.com/Jixxus/myqol-releases/releases/download/v1.5.0/MyQOL-v1.5.0-macOS-universal.zip" length="4815844" type="application/octet-stream" sparkle:edSignature="xV0HK1MS6yBZZu4esyOFzAZtcpr8kAHRqprCkYFUGIQyRSx6WQTrWUUDTysaPIFvwc1FplwzXAgpqkZQUyQjDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WMNf7OWLEC1dxyT8ne9Ic24Cx/zbxe7F0gRsKsiTuI/AfVuIxlPyor0GXa4QlwN1fye03XW5z/XujgpXuiPNDw==
+edSignature: QIiFyzJMIKUVx9j2kZF6Na2QttvQ8Tcp9pKGnLiLn4p5SXHkZHrzH3tMUQwaSSGmlub+fESHGaJyBaM9uqjSCA==
 length: 1152
 -->
