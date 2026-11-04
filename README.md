@@ -1,3 +1,5 @@
+![MyQOL, Mac utilities that make everyday work easier](screenshots/banner.png)
+
 # MyQOL
 
 Make your Mac a little more comfortable. MyQOL brings break reminders, window shortcuts, and a keep-awake switch to your menu bar.
