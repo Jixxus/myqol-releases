@@ -1,19 +1,22 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>MyQOL</title>
         <item>
-            <title>1.5.0</title>
-            <pubDate>Wed, 04 Nov 2026 12:59:59 +0000</pubDate>
-            <link>https://github.com/Jixxus/myqol-releases/releases/tag/v1.5.0</link>
-            <sparkle:version>41833942486</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <title>1.6.0</title>
+            <pubDate>Wed, 04 Nov 2026 16:02:05 +0100</pubDate>
+            <link>https://github.com/Jixxus/myqol-releases/releases/tag/v1.6.0</link>
+            <sparkle:version>41852475076</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Jixxus/myqol-releases/releases/download/v1.5.0/MyQOL-v1.5.0-macOS-universal.zip" length="4815844" type="application/octet-stream" sparkle:edSignature="xV0HK1MS6yBZZu4esyOFzAZtcpr8kAHRqprCkYFUGIQyRSx6WQTrWUUDTysaPIFvwc1FplwzXAgpqkZQUyQjDA=="></enclosure>
+            <enclosure url="https://github.com/Jixxus/myqol-releases/releases/download/v1.6.0/MyQOL-v1.6.0-macOS-universal.zip" length="5094626" type="application/octet-stream" sparkle:edSignature="1prFpwD40Cvxmk+rEZY1z3yk/57tzQ1qjBRd9gah8LK80INJf5o2MCGLJSxGV/mk+SqgCBeATTgBN2pJhF2DDg=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: QIiFyzJMIKUVx9j2kZF6Na2QttvQ8Tcp9pKGnLiLn4p5SXHkZHrzH3tMUQwaSSGmlub+fESHGaJyBaM9uqjSCA==
-length: 1152
+</rss>
+<!-- sparkle-signatures:
+edSignature: lGN9leqqvkOAXmTdRuFfQbCfiGzJOSZ9hUBFHQzTiDF1rUnbrRCvbUDbAlof9vBG3+B3au++W88AMaNSnKJICg==
+length: 1144
 -->
