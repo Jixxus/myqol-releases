@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>MyQOL updates</title>
-        <link>https://github.com/Jixxus/myqol-releases</link>
-        <description>Signed MyQOL updates for macOS.</description>
-        <language>en</language>
+        <title>MyQOL</title>
+        <item>
+            <title>1.3.0</title>
+            <pubDate>Wed, 04 Nov 2026 06:57:54 +0000</pubDate>
+            <link>https://github.com/Jixxus/myqol-releases/releases/tag/v1.3.0</link>
+            <sparkle:version>41788889678</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Jixxus/myqol-releases/releases/download/v1.3.0/MyQOL-v1.3.0-macOS-universal.zip" length="1988329" type="application/octet-stream" sparkle:edSignature="feZ0Cmv0IGpxWNKlFP80qn9C3s6o01HrKHs1mf0i41Z7TRVcUZwa9H1bS1tblNNhOd72/uGpX7WV+DROutEvAg=="></enclosure>
+        </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: du1nNgfF0K28WKzWOCmO7R7CxLf4fT47hp11ly/VPG9P5uN3QtHEMEuTOwDBZtwS4+lRclUC/kpqwkAe6xVCDQ==
-length: 612
+edSignature: QOtp7I4GDHvuI9wFe53gHP8+ajQLhAs/C/ld0kLr2H1OpzYOOQK8oUirVPkZ5kLQXMwzaxfe5Ra/gCS24A99Ag==
+length: 1152
 -->
